@@ -1,0 +1,11 @@
+main{
+  width: 300px;
+ 
+}
+div{
+  border: 1px solid black;
+  padding: 15px;
+}
+div:hover{
+  background-color: #e65c00;
+}
